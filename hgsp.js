@@ -10,9 +10,9 @@
 
 
 圈X：
-https:\/\/api1000\.cvxia\.com\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js
+https:\/\/api1000\.gdqeb\.club\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js
 
-MITM = api1000.cvxia.com
+MITM = api1000.gdqeb.clob
 */
 
 var body = $response.body;
