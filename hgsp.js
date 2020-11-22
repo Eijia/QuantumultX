@@ -10,7 +10,7 @@
 
 
 圈X：
-https:\/\/api1000\.gdqeb\.club\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/Eijia/QuantumultX/master/hgsp.js
+https:\/\/api1000\.gdqeb\.club\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js
 
 MITM = api1000.gdqeb.club
 */
