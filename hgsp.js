@@ -3,7 +3,7 @@
 
 黄瓜视频tf版下载地址：http://suo.im/5Fc3Ls
 
-# by微信公众号：少年歌行PRO 2020/9/4 更新
+# by微信公众号：少年歌行PRO+Eijia 2020/12/13 更新
 # 电报资源发布群（禁言纯净）@shao66 
 # 电报水友交流群（资源同步）@sngxpro
 # 电报私聊 @shaogebot
